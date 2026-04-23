@@ -1,6 +1,6 @@
 package clase;
 
-public interface FelDeMancare {
+public interface  FelDeMancare {
 
     public void afiseaza();
 }
